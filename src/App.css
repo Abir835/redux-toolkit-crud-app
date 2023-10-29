@@ -10,6 +10,11 @@
 body {
   background-color: beige;
 }
+
+.headerview{
+  text-align: center;
+  padding: 2rem;
+}
 nav {
   background-color: rgb(235, 155, 155);
   height: 5vh;
@@ -76,3 +81,4 @@ footer {
   align-items: center;
   padding: 1rem;
 }
+
